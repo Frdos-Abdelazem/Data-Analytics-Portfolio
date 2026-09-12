@@ -1,37 +1,37 @@
-# ✈️ تحليل رضا ركاب الطيران (Airline Passenger Satisfaction)
+# ✈️ Airline Passenger Satisfaction Analysis
 
-## 🎯 السؤال الأساسي
-ما هي أهم العوامل المؤثرة على رضا الركاب، وهل تختلف هذه العوامل باختلاف نوع الرحلة (عمل/سياحة) أو درجة السفر؟
+## 🎯 Core Question
+What are the key factors driving passenger satisfaction, and do they differ by trip type (business/personal) or travel class?
 
-## 📦 البيانات
-داتاسيت يضم استبيانات رضا ركاب شركة طيران، ويحتوي على:
-- بيانات ديموغرافية (العمر، نوع السفر، درجة السفر)
-- تقييمات الخدمات (الواي فاي، الراحة، الطعام، النظافة...)
-- بيانات تشغيلية (تأخير الإقلاع والوصول)
-- الرضا العام (راضٍ / غير راضٍ)
+## 📦 Dataset
+Airline passenger satisfaction survey data, including:
+- Demographics (age, trip type, travel class)
+- Service ratings (Wi-Fi, comfort, food, cleanliness...)
+- Operational data (departure and arrival delays)
+- Overall satisfaction (satisfied / not satisfied)
 
-**المصدر:** [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+**Source:** [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
 
-## 🔍 خطة التحليل
-1. تحديد نطاق المشكلة (هل الرضا يختلف بشكل كبير بين شرائح الركاب؟)
-2. تنظيف البيانات (القيم المفقودة، التكرارات)
-3. تحليل استكشافي مقارن:
-   - الرضا حسب نوع السفر ودرجة الحجز
-   - العلاقة بين التأخير والرضا (معامل ارتباط فعلي)
-   - أهم الخدمات المؤثرة على الرضا
-4. استنتاجات تحليلية مدعومة بالأرقام
-5. توصيات عملية قابلة للقياس
+## 🔍 Analysis Plan
+1. Scope the problem (does satisfaction vary significantly across passenger segments?)
+2. Data cleaning (missing values, duplicates)
+3. Comparative exploratory analysis:
+   - Satisfaction by trip type and travel class
+   - Relationship between delays and satisfaction (actual correlation)
+   - Top service factors influencing satisfaction
+4. Data-backed analytical insights
+5. Actionable, measurable recommendations
 
-## 📊 أهم النتائج
-*(سيتم تحديثه بعد إتمام التحليل)*
+## 📊 Key Findings
+*(To be updated after analysis)*
 
-## 💡 التوصيات
-*(سيتم تحديثه بعد إتمام التحليل)*
+## 💡 Recommendations
+*(To be updated after analysis)*
 
-## 🛠️ الأدوات
+## 🛠️ Tools
 Python, Pandas, Matplotlib, Seaborn
 
 ---
-📂 الملفات:
-- `notebook.ipynb` — التحليل الكامل
-- `data/` — البيانات المستخدمة
+📂 Files:
+- `notebook.ipynb` — full analysis
+- `data/` — dataset used

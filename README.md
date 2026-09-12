@@ -1,32 +1,32 @@
-# 📊 بورتفوليو تحليل البيانات - فرحدس عبدالعزيم
+# 📊 Data Analytics Portfolio - Frdos Abdelazem
 
-مرحباً! أنا فرحدس، أطمح لأن أكون محلل بيانات ناجح. هذا المستودع يضم مشاريع تحليل بيانات كاملة (End-to-End)، كل مشروع يحاكي مشكلة عمل حقيقية بدءاً من طرح السؤال الصحيح وحتى التوصيات القابلة للتنفيذ.
+Hi! I'm Frdos, an aspiring data analyst. This repository showcases complete end-to-end data analysis projects — each one tackles a real business question, from framing the right problem to delivering actionable recommendations.
 
-## 🛠️ الأدوات المستخدمة
+## 🛠️ Tools Used
 - **Python** (Pandas, NumPy)
-- **Matplotlib & Seaborn** للتصور البياني
-- **Jupyter Notebook** لبيئة العمل
-- **SQL** و**Excel** (حسب المشروع)
+- **Matplotlib & Seaborn** for data visualization
+- **Jupyter Notebook** as the working environment
+- **SQL** and **Excel** (project-dependent)
 
-## 🧠 منهجية العمل
+## 🧠 Methodology
 
-كل مشروع بهذا المستودع يتبع نفس الإطار:
-1. **تحديد السؤال الأساسي** الذي يحله المشروع
-2. **تحديد نطاق المشكلة** قبل أي تحليل
-3. **تحليل استكشافي مقارن** (Baseline / مقارنات، لا وصف مجرد)
-4. **استبعاد الأسباب الخارجية** والتحقق من صحة الفرضيات
-5. **توصية عملية قابلة للقياس** في النهاية
-
----
-
-## 📁 المشاريع
-
-### 1. تحليل رضا ركاب الطيران (Airline Passenger Satisfaction)
-تحليل العوامل المؤثرة على رضا ركاب شركات الطيران، ومقارنة الرضا حسب نوع الرحلة ودرجة السفر، لتحديد أولويات التحسين.
-
-📂 [رابط المشروع](./Project-1-Airline-Passenger-Satisfaction)
+Every project in this repository follows the same framework:
+1. **Define the core business question** the project aims to answer
+2. **Scope the problem** before touching any data
+3. **Comparative exploratory analysis** (baselines and comparisons, not just description)
+4. **Rule out external/confounding factors** and validate hypotheses
+5. **Deliver a measurable, actionable recommendation**
 
 ---
 
-## 📫 تواصل معي
+## 📁 Projects
+
+### 1. Airline Passenger Satisfaction Analysis
+Analyzing the key factors driving passenger satisfaction, and comparing satisfaction levels across trip types and travel classes to identify improvement priorities.
+
+📂 [Project Link](./Project-1-Airline-Passenger-Satisfaction)
+
+---
+
+## 📫 Contact
 - GitHub: [Frdos-Abdelazem](https://github.com/Frdos-Abdelazem)
